@@ -12,7 +12,7 @@
     <artifactId>zuul-gateway</artifactId>
 
     <properties>
-        <commonlang.version>3.4</commonlang.version>
+        <commonlang.version>3.18.0</commonlang.version>
     </properties>
 
     <dependencies>
